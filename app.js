@@ -22,34 +22,44 @@
     function ShoppingListCheckOffService(){
       var buyItems = [
         {
-          name : "cookie1"
+          name : "cookies",
+          quantity : 15
         },
         {
-          name : "cookie2"
+          name : "shoes",
+          quantity : 8
         },
         {
-          name : "cookie3"
+          name : "glasses",
+          quantity : 25
         },
         {
-          name : "cookie4"
+          name : "computers",
+          quantity : 10
         },
         {
-          name : "cookie5"
+          name : "cars",
+          quantity : 12
         },
         {
-          name : "cookie6"
+          name : "candies",
+          quantity : 5
         },
         {
-          name : "cookie7"
+          name : "cookie7",
+          quantity : 3
         },
         {
-          name : "cookie8"
+          name : "nuggets",
+          quantity : 20
         },
         {
-          name : "cookie9"
+          name : "shirts",
+          quantity : 19
         },
         {
-          name : "cookie10"
+          name : "balls",
+          quantity : 7
         }
       ];
       var boughtItems = [];
